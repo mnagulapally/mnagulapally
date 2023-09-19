@@ -3,7 +3,7 @@
 
 - 🔭 I've worked on Financial Project called [Folio Wise](https://github.com/mnagulapally/FolioWise-project)
 
-- 🌱 I did Data Science Bootcamp **Python, Machine Learning, Deep Learning, algorithms etc.**
+- 🌱 I did Data Science Bootcamp **Python, Machine Learning, Deep Learning, algorithms, MLOps etc.**
 
 - 💬 Ask me about **I'm very passionate and enthusiastic.**
 
